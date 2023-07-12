@@ -9,5 +9,6 @@ Objectives of the project
 • To show on optical viewfinder of camera module what a particular position of hand means with respect to sign language.
 
 The data set is made by us:
+
 Data Collection: https://drive.google.com/drive/folders/1yehHJ2qjmHmDiuX3lPvHwWF0CwY9HHSa?usp=sharing
 Pre Processed Data : https://drive.google.com/drive/folders/12kb1chVIild_K9tpWDHw1KBkMFMvrP97?usp=sharing
